@@ -1,0 +1,51 @@
+body 
+{
+	
+  color: #FFFFFF;
+  margin: 0;
+  padding: 0;
+  font-family: 'Roboto Condensed';
+
+}
+#box
+{
+	background-image: url("background.jpg");
+	background-position: center;
+  	width: 1080px;
+	height: 1920px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 15px;
+}
+#menu
+{
+	position: static;
+	text-align: right;
+}
+#silverhand
+{
+	position: absolute;
+	top: 160px;
+}
+#name1
+{
+	position: absolute;
+	top: 220px;
+	left: 710px;
+	font-size: 85;
+}
+#name2
+{
+	position: absolute;
+	top: 370px;
+	left: 770px;
+	font-size: 38;
+}
+#strength
+{
+	position: static;
+	top: 1180px;
+	left: 280px;
+}
+
+
